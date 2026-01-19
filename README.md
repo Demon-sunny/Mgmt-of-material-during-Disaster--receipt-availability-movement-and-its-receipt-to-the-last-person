@@ -1,4 +1,6 @@
-# Management of Material During Disaster
+# Mgmt-of-material-during-Disaster--receipt-availability-movement-and-its-receipt-to-the-last-person
+
+## Management of Material During Disaster
 
 This repository contains images related to the management of material during disasters, including:
 - Receipt of materials

@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+*/
+
+# But include these specific directories
+!home/
+!images/
+!roll13/
+!roll14/
+!README.md
+!.gitignore
+
+# Include all files in these directories
+!home/**
+!images/**
+!roll13/**
+!roll14/**
